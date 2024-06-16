@@ -1,4 +1,4 @@
-This configuration will create 
+This configuration will, 
 
 1. Create vpc, subnets and security groups with allow rules for 80
 2. Create internet gateway and attches to subnets 
